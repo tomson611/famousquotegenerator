@@ -1,0 +1,13 @@
+.jumbotron {
+  background-color: orange;
+  margin-top: 150px;
+  text-align: center;
+}
+
+#tweet-quote {
+  font-size: 30px;
+}
+
+.fa {
+    margin-top: 20px;
+}
